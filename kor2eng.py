@@ -13,3 +13,6 @@ print(len(characters), len('가거고구나너노누다더도두라러로루리�
 
 def gittest():
  print('git test 중입니다')
+
+def gittest2():
+ print('git test 중입니다')
