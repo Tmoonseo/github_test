@@ -16,3 +16,6 @@ def gittest():
 
 def gittest2():
  print('git test 중입니다')
+
+def gittest3():
+ print('git test 중입니다')
