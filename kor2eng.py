@@ -9,3 +9,7 @@ character_str = 'ga geo go gu na neo no nu da deo do du la leo lo lu li ma meo m
 characters = [character for character in character_str.split(' ')]
 print(characters)
 print(len(characters), len('가거고구나너노누다더도두라러로루리마머모무바버보부배사서소수아어오우이육자저조주지허하호'))
+
+
+def gittest():
+ print('git test 중입니다')
